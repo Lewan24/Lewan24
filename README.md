@@ -1,88 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Artur</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-<a href="https://app.daily.dev/lewan24"><img src="https://api.daily.dev/devcards/v2/ywbscmuGK2cKD10GdKSlJ.png?r=41o&type=wide" width="652" alt="Artur Lewandowski's Dev Card"/></a><br><br>
+<a href="https://app.daily.dev/lewan24"><img src="https://api.daily.dev/devcards/v2/ywbscmuGK2cKD10GdKSlJ.png?r=41o&type=wide" width="652" alt="Artur Lewandowski's Dev Card"/></a>
 
-Some information about me as person and my activity on Github and .NET Career coded in C# language :)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lewan24&label=Profile%20views&color=0e75b6&style=flat" alt="lewan24" /> </p>
 
-```c#
-// .NET 7 C#
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewan24" alt="lewan24" /></a> </p>
 
-var Artur = new Developer();
+- 🔭 I’m currently working mostly with **.NET using Blazor**
 
-// Initialize developer's properties
-Artur.Name = "Artur";
-Artur.Age = 22;
-Artur.Job = "Backend Developer";
-Artur.Known_Languages = new() {
-  "C#",
-  "C++",
-  "Blazor",
-  ".NET MVC",
-  "WebApis",
-  "Python",
-  "Java",
-  "PHP",
-  "MySQL",
-  "JS"
-};
+- 🌱 I’m currently learning **Kotlin**
 
-// Data is stored in Developer class below
-#region Get Information about developer
+- 📫 How to reach me **lewandowskiartur2@protonmail.com**
 
-Artur.GetMainPersonInformation();
-Artur.GetJobInformation();
-Artur.GetEducationCareerInformation();
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/lewan24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lewan24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lewandowskiartur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lewandowskiartur" height="30" width="40" /></a>
+</p>
 
-#endregion
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Console.ReadKey();
-
-public sealed class Developer
-{
-    #region Variables
-    private string? _name;
-    public string? Name { get => _name; set { _name = value; } }
-
-    private string? _job;
-    public string? Job { get => _job; set { _job = value; } }
-
-    private List<string> _languages = new();
-    public List<string> Known_Languages { get => _languages; set { _languages = value; } }
-
-    private short _age = 0;
-    public short Age { get => _age; set { _age = value; } }
-    #endregion
-
-    #region Public Get Information Section
-    public void GetMainPersonInformation()
-    {
-        Console.WriteLine($"\t\t\t---- {_name}, {_age} - {_job} ----\n\n");
-
-        Console.WriteLine(@"----- Activity -----
-    Creating projects/schemes for portfolio, own educational purpose. 
-I upload here also the solutions for problems that on internet are just too old or doesn't work for me." + "\n\n");
-
-        Console.WriteLine(@"----- Licensing -----
-    Almost everything that I create is on MIT licence so free to use for everyone if needed." + "\n\n");
-    }
-
-    public void GetJobInformation()
-    {
-        Console.WriteLine(@"----- Job -----
-    For now .NET Developer mainly focused on web applications based on Blazor / .net mvc.
-Currently I use the newest version of .NET for creating applications (.NET 7)" + "\n\n");
-    }
-
-    public void GetEducationCareerInformation()
-    {
-        Console.WriteLine(@"----- Education / Career -----
-    I learn by creating own projects and solving own problems in work. 
-I read programming books about .NET or the style of beeing the developer. 
-And also I watch tutorials on yt or by buying on Udemy.
-
-For future I want to learn some frontend languages such as 
-Angular or React. Also I want to start T - SQL learning.");
-    }
-    #endregion
-}
-```
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewan24&show_icons=true&theme=dark&locale=en&layout=compact" alt="lewan24" /></p>
