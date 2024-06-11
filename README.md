@@ -40,4 +40,4 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewan24&show_icons=true&theme=dark&locale=en&layout=compact" alt="lewan24" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewan24&theme=dracula&size_weight=0.5&count_weight=0.5&exclude_repo=Lewan24.github.io&langs_count=6&layout=compact&hide=JavaScript" alt="Languages Stats" /></p>
