@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate C# developer</h3>
 
 <a href="https://app.daily.dev/lewan24"><img src="https://api.daily.dev/devcards/v2/ywbscmuGK2cKD10GdKSlJ.png?r=41o&type=wide" width="652" alt="Artur Lewandowski's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewan24&label=Profile%20views&color=0e75b6&style=flat" alt="lewan24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewan24" alt="lewan24" /></a> </p>
 
 - 🔭 I’m currently working mostly with **.NET using Blazor**
 
